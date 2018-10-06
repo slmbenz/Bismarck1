@@ -8,7 +8,6 @@ import android.widget.Toast;
 import com.hitomi.cmlibrary.CircleMenu;
 import com.hitomi.cmlibrary.OnMenuSelectedListener;
 
-import static com.example.abdessalem.bismarck.R.id.circle_menu;
 
 public class MainActivity extends AppCompatActivity {
 
