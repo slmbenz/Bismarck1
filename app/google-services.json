@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "85722642759",
+    "firebase_url": "https://bismarck-7df71.firebaseio.com",
+    "project_id": "bismarck-7df71",
+    "storage_bucket": "bismarck-7df71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85722642759:android:3ffeff4c6023bb61",
+        "android_client_info": {
+          "package_name": "com.example.abdessalem.bismarck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85722642759-496nln1gi2tmesrvnjfave74u4c143sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abdessalem.bismarck",
+            "certificate_hash": "7b4a7460af9e79d8555844236001be7d3c88c528"
+          }
+        },
+        {
+          "client_id": "85722642759-8gdjvasihjpfe172gtgsvcuprq1se4un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzchD7GAd5lLRMxH8ojFheO8RW8MmWxrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85722642759-8gdjvasihjpfe172gtgsvcuprq1se4un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
